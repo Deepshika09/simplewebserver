@@ -55,7 +55,7 @@ content='''
             </tr>
             <tr>
                 <th>graphic</th>
-                <th></th>
+                <th>integrated intel UHD graphics</th>
             </tr>
             </table>
             </body>
