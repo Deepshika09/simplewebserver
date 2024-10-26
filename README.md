@@ -76,8 +76,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()'''
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-10-26 101355.png>)
-![alt text](<Screenshot 2024-10-26 101446.png>)
+![Screenshot 2024-10-26 113203](https://github.com/user-attachments/assets/6d30e80a-a697-4449-aed8-7b4b620d1a58)
+
 
 
 ## RESULT:
